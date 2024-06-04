@@ -1,1 +1,1 @@
-heroesApp repository backend - JSON-server
+heroesApp repository backend - JSON Server
