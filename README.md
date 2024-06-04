@@ -1,1 +1,1 @@
-Backend server. Database (JSON) for heroesApp
+heroesApp repository backend - JSON-server
